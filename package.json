@@ -7,10 +7,10 @@
     "webkit"
   ],
   "description": "Headless WebKit with JS API",
-  "homepage": "https://github.com/Medium/phantomjs",
+  "homepage": "https://github.com/bios21/phantomjs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Medium/phantomjs.git"
+    "url": "git://github.com/bios21/phantomjs.git"
   },
   "license": "Apache-2.0",
   "author": {
